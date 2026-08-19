@@ -1,0 +1,36 @@
+h2{
+            color: blueviolet;
+         }
+         #ingrediente1{
+            background-color: wheat;
+            font-size: x-large;
+            color:blue
+         }
+         #ingrediente2{
+            background-color: wheat;
+            font-size: x-large;
+            color:green
+         }
+         #ingrediente3{
+            background-color: wheat;
+            font-size: x-large;
+            color: red;
+         }
+         #ingrediente4{
+            background-color: wheat;
+            font-size: x-large;
+            color: yellow;
+         }
+         #ingrediente5{
+            background-color: wheat;
+            font-size: x-large;
+            color: black;
+         }
+
+        body{
+            background-color: coral;
+        }
+        img{
+            width: 300px;
+        }
+        
